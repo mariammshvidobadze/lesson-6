@@ -1,0 +1,51 @@
+.logo {
+	width: 197px;
+	height: 60px;
+	float: left;
+	margin-top: 20.5px;
+	margin-left: 98px;
+	margin-right: 103.4px;
+}
+.nav {
+	float: left;
+	margin-top: 35.4px;
+	margin-right: 31px;
+	color: #3D58A6;
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+}
+.navigation {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 1366px;
+	height: 100.2px;
+}
+.img1 {
+	width: 1170px;
+	height: 460px;
+	float: left;
+	margin-left: 98px;
+	padding-top: 30px;
+}
+.conteiner {
+	margin-top: 100.5px;
+	width: 1366px;
+	height: 520px;
+	background-color: #E6E6E6;
+}
+.box {
+	position: absolute;
+	top: 421.5px;
+	left: 128px;
+	width: 339px;
+	height: 147px;
+	z-index: 2;
+
+}
+.text {
+	font-size: 30px;
+	color: #E6E6E6;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
