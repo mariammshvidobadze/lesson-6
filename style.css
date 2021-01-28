@@ -15,11 +15,13 @@
 	font-family: 'Roboto', sans-serif;
 }
 .navigation {
+	background-color: #FFFFFF;
 	position: fixed;
 	top: 0;
 	left: 0;
 	width: 1366px;
 	height: 100.2px;
+	z-index: 3;
 }
 .img1 {
 	width: 1170px;
@@ -48,4 +50,32 @@
 	color: #E6E6E6;
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
+}
+.conteiner2 {
+	width: 1366px;
+	height: 499.33px;
+	background-color: #363E97;
+}
+.text1 {
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+	color: #FFFFFF;
+	padding-top: 30px;
+	padding-left: 99.5px;
+}
+.left-box {
+	float: left;
+	width: 570px;
+	height: 320px;
+	background-color: #F2F2F2;
+	margin-left: 99.5px;
+	margin-top: 89.9px;
+}
+.right-box {
+	float: right;
+	width: 570px;
+	height: 320px;
+	background-color: #F2F2F2;
+	margin-right: 99.5px;
+	margin-top: 89.9px;
 }
